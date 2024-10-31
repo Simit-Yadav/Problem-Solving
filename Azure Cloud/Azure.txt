@@ -1,0 +1,10 @@
+Azure is a cloud computing platform with set of services to help build solutions to meet business goals.
+
+Azure has fully virtualized computers managing customer software solutions
+
+Azure provides cloud based services like remote storage, database hosting, and centralized account management.
+
+Cloud computing is the delivery of computing services over the internet. 
+
+
+Azure Regions: A region is a geographical area on the planet that contains at least one, but potentially multiple datacenters that are nearby and networked together with a low-latency network
